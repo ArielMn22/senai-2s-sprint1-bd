@@ -17,4 +17,4 @@ Tipos de dados SQL:
 	- varchar(quantidade_de_caracteres_ate_255)
 	- char(quantidade_de_caracteres) // Utilizado quando souber exatamente a quantidade de caractéres.
 
-DDL - Palavras-chave para criação do banco de dados.
+DDL - Palavras-chave para criação do banco de dados SQLs.

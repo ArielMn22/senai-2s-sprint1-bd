@@ -1,0 +1,20 @@
+Tipos de SQL:	
+	- SQL Server
+	- SQL Developer
+	- SQL Standard
+	- SQL Enterprise
+	- SQL Express
+	- SQL Developer
+
+SQL- Structured Query Language, ou Linguagem de Consulta Estruturada ou SQL, é a linguagem de pesquisa declarativa padrão para banco de dados relacional. Muitas das características originais do SQL foram inspiradas na álgebra relacional.
+
+Como utilizar:
+	- create database SENAI_SVIGUFO_TARDE; // Cria o banco de dados;
+	- use SENAI_SVIGUFO_TARDE; // Seleciona o banco de dados a ser utilizado;
+
+Tipos de dados SQL:
+	- https://docs.microsoft.com/pt-br/sql/t-sql/data-types/data-types-transact-sql?view=sql-server-2017
+	- varchar(quantidade_de_caracteres_ate_255)
+	- char(quantidade_de_caracteres) // Utilizado quando souber exatamente a quantidade de caractéres.
+
+DDL - Palavras-chave para criação do banco de dados.

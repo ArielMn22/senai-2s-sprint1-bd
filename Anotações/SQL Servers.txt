@@ -18,3 +18,8 @@ Tipos de dados SQL:
 	- char(quantidade_de_caracteres) // Utilizado quando souber exatamente a quantidade de caractéres.
 
 DDL - Palavras-chave para criação do banco de dados SQLs.
+DML/DQL(Menos utilizado) - Palavras-chave para manipular dados no BD SQL.
+
+Usuário padrão do SQL:
+	- usuário: sa
+	- senha: 132

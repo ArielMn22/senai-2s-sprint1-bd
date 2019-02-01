@@ -28,6 +28,10 @@ DELETE FROM ALUNOS WHERE ID = 3 --DELETE A PESSOA A SUA DIREITA
 ---------------------------------------------------------------------------------------------------------
 
 INSERT INTO PROFESSORES(NOME)
-	VALUES('Fernando'),('Henrique'),('Possarle')
+	VALUES('Fernando'),('Helena'),('Possarle')
 
 INSERT INTO CURSOS(NOME)
+
+SELECT * FROM PROFESSORES
+
+SELECT * FROM CATEGORIAS
